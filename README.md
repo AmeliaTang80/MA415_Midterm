@@ -1,5 +1,7 @@
 March 20
 
+I used functions from professor's my_functions.R.
+
 ## Files for midterm
 
 This memo and all of the files used in class on March 20 can be accessed at <https://github.com/MA615-415-Spring-2025/class-15---Mar-20>
